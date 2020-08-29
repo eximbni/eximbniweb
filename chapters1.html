@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <!--<![endif]-->
+      <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Best Site For imports and exports</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css"> 
+ 
+        <script src="js/angular.min.js"></script>
+        <script src="appJs/eximApp.js"></script>
+<style type="text/css">
+
+input::-webkit-input-placeholder {
+color: red !important;
+}
+ 
+input:-ms-input-placeholder {  
+color: red !important;  
+}
+
+  .red-text{
+    color:red;
+  }
+
+
+  .card-row {
+    margin-bottom: 2%; 
+    padding-left: 25px;
+    padding-top: 10px;
+    margin: 8px;
+    border-radius: 2px;
+    width: calc(100% - 24px);
+    background: #fff;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    
+    }
+    
+  
+    .search{
+        padding: 4px 20px;
+        border-radius: 0px;
+        background-position: left 4px center;
+        font-size: 1.2rem;
+        font-weight: 200;
+        line-height: 1rem;
+        color: #141414;
+        background-color: #fff;
+        
+        border-radius: 30px !important;
+        border: 1px solid #a5a5a5;      
+        
+        display: block;
+        width: 98%;
+        font-family: inherit;
+    
+    }
+    
+    .btncls {
+        border-width: 1px;
+        border-style: solid;
+        border-color: #e62c0c;
+        color:#f8f9fa;
+        box-shadow: none;
+        
+        border-radius: 64px;
+        padding: 0 2.6rem;   
+        height: 1.5rem;
+        font-size: 0.8rem;
+        text-align: center;
+        position: relative;
+        z-index: 0;
+        display: inline-block;
+        text-overflow: ellipsis;
+        text-transform: none;
+        white-space: nowrap;
+        cursor: pointer;
+        vertical-align: top;
+        transition: background-color, opacity 100ms linear;
+        user-select: none;
+        contain: content;
+    
+        border: 0;
+        font-family: cursive;
+        font-style: inherit;
+        font-variant: inherit;
+        line-height: 1;
+        
+        box-sizing: border-box;
+        
+    }
+
+</style>    
+
+      </head>
+
+
+
+
+<body ng-app="eximApp"  style="background: #fdfcfc; padding-right: 0px;"  ng-controller="chapterCtrl">
+        <div class="container">
+            <div class="row">
+
+                <!-- Site Wraper -->
+                <div class="wrapper">
+                    <div class="se-pre-con"></div>
+
+                    <!--Header -->
+                    <header>
+                        <!-- start middlebar -->
+                        <div class="middlebar cd-navbar navbar-default">
+                            <div class="container">
+                                <div class="row col-lg-12 col-md-12 col-sm-12 col-xm-12">
+                                    
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xm-12" align="center">
+                                                <div class="col-4"> </div>
+                                                <a href="index.html">
+                                                <div class="col-4"> <img width="160" src="img/eximbnilogo.svg" alt="eximbni_logo" /> </div>
+                                                </a>
+                                                <div class="col-4"> </div>
+                                        </div>
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xm-12">  </div>                                                
+                                            
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end middlebar -->
+            
+                    </header>
+                    <!--End Header -->
+ 
+                     <div class="container main-home-page-style">
+                    
+                        <div class="row">
+                            <div class="col-md-1 col-sm-12 col-xs-12 home-side-bar sied-bar-left scroll-area">
+                                
+                                <!-- CATEGORIES WIDGET -->
+                                <section class="widget mb30">
+                                 <!--  Yemekar-->
+                                </section>
+                               
+                            </div>
+                            
+                            <div class="home-main col-md-1 col-sm-12 col-xs-12 main-contant-right">
+                               <!-- ganesh-->
+                            </div>
+
+                            <div class="col-md-10 col-sm-12 col-xs-12 home-side-bar sied-bar-left scroll-area">
+                                
+                                <!-- CATEGORIES WIDGET -->
+                                <section class="content widget mb50">
+
+                                  <div class="container-fluid"  > 
+
+                                      <div class="row"  >
+                                          <div class="card card-success card-outline">
+                                              <div class="card-header"> </div>
+                                              <div class="card-body" >
+
+
+                                                  <div class="panel-group" ng-repeat="chName in getChList track by $index" ng-if="chName.chapter_name">
+                                                        
+                                                        <div class="panel panel-default">
+                                                          <div class="panel-heading">
+                                                            <h4 class="panel-title">
+                                                              <a data-toggle="collapse" href="#collapse{{ $index }}" ng-click="gethsncode(chName.id)">{{ chName.chapter_name }} &nbsp;&nbsp;&nbsp;&nbsp; {{ chName.ch_description }} 
+                                                                  <span style="float:right;margin-top: -0.8%;">
+                                                                      <button class="btn btn-outline btn-info"> {{ chName.sellleads }}</button>
+                                                                      <button class="btn btn-outline btn-danger"> {{ chName.buyleads }}</button>
+                                                                  </span>
+                                                              </a>
+                                                            </h4>
+                                                          </div>
+                                                          <div id="collapse{{ $index }}" class="panel-collapse collapse">
+                                                            <div class="panel-body" style="background-color: #81bfd2;">
+                                                                <div class="row card-row" ng-repeat="hsnList in getHsnList track by $index" style="background-color: #f5f5f5;">
+                                                                    <div class="row form-group col-md-12">
+                                                                        <div class="col-md-6" style="background-color: blue;color: white;">
+                                                                            <h6 > Sell Leads : {{ hsnList.sellleads }}</h6>
+                                                                        </div>
+                                                                        <div class="col-md-6" style="background-color: red;color: white;">
+                                                                            <h6 > Buy Leads : {{ hsnList.buyleads }} </h6>
+                                                                        </div>
+                                                                    </div>
+                                                                    
+                                                                    <div class="row form-group col-md-12">
+                                                                        <div class="col-md-6">
+                                                                            <h5> HS Code : {{ hsnList.hscode }}</h5>
+                                                                        </div>
+                                                                        <div class="col-md-6" >
+                                                                            <div class="col-md-4">
+                                                                                <button class="btn btn-success" ng-click="showh4($index)" data-toggle="modal" data-target="#myModal">HS4</button>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <button class="btn btn-warning" ng-click="showh5($index)" data-toggle="modal" data-target="#myModal">HS5</button>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <button class="btn btn-info" ng-click="showh6($index)" data-toggle="modal" data-target="#myModal">HS6</button>
+                                                                            </div> 
+                                                                        </div> 
+                                                                        
+                                                                    </div>
+                                                                    
+                                                                    <div class="row form-group col-md-12">
+                                                                        <h6 style="color:orange"> {{ hsnList.english }}</h6>
+                                                                        <br>
+                                                                    </div>
+                                                                   
+                                                                    <div class="row form-group col-md-12" style="background-color:rgb(243, 102, 102); color: white; line-height: 1.5rem;">
+                                                                        <strong > Policy : {{ hsnList.policy }}  </strong> <span> (this is asper available Data to know more Please consult respective department) </span>
+                                                                    </div>
+                                                                    
+                                                                    <div class="row form-group col-md-12" style="background-color:rgb(10, 97, 206); color: white; line-height: 1.5rem;">
+                                                                         <strong > Duties :  </strong> <span> Please contact respective department of your country </span>
+                                                                    </div>                                                                    
+                                                    
+                                                                    <div class="row form-group col-md-12" align="center">
+                                                                        <button class="btncls btn-success" ng-click=showleads(hsnList.hscode)>Please Click Here to see Leads of this HS Code</button>
+                                                                    </div>  
+                                                    
+                                                                </div>
+                                                            </div>
+                                                            <div class="panel-footer"></div>
+                                                          </div>
+                                                          
+                                                        </div>
+    
+                                                  </div>
+
+                                              </div>
+                                              <div class="card-footer"> </div>
+                                          </div>        
+                                      </div>
+                                  </div>
+
+
+                                </section>
+                               
+                            </div>
+
+                        </div>
+                      
+                    </div>
+ 
+                </div>
+                
+            </div>
+        </div>  
+        
+        <!-- HS Code Modal -->
+                  <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog modal-sm">
+                    
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <span id="hscode_title"></span>
+                        </div>
+                        <div class="modal-body">
+                          <span id="hscode_desc"></span>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+                        </div>
+                      </div>
+                      
+                    </div>
+                  </div>
+                <!-- HS Code Modal -->  
+        <!-- JQUERY LIBS -->
+        <script type="text/javascript"  src="js/jquery.min.js"></script>
+        <!-- BOOTSTRAP -->
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <!-- CUSTOM-->
+        <script type="text/javascript" src="js/custom.js"></script>
+ <script>
+$(document).ready(function(){
+    function alignModal(){
+        var modalDialog = $(this).find(".modal-dialog");
+        /* Applying the top margin on modal dialog to align it vertically center */
+        modalDialog.css("margin-top", Math.max(0, ($(window).height() - modalDialog.height()) / 2));
+    }
+    // Align modal when it is displayed
+    $(".modal").on("shown.bs.modal", alignModal);
+    
+    // Align modal when user resize the window
+    $(window).on("resize", function(){
+        $(".modal:visible").each(alignModal);
+    });   
+});
+</script>
+</body>
+</html>

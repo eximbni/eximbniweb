@@ -1,0 +1,26 @@
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script src='https://meet.jit.si/external_api.js'></script>
+        <script>
+            function jitsicall(){
+                alert("hi");
+                const domain = 'meet.jit.si';
+const options = {
+    roomName: 'Exim Webinar Test',
+    width: 700,
+    height: 700,
+    userInfo: {
+        email: 'user@eximbni.com',
+        displayName: 'Exim User'
+    },
+    parentNode: document.querySelector('#meet')
+};
+const api = new JitsiMeetExternalAPI(domain, options);
+            }
+        </script>
+    </head>
+    <body>
+        <button style="height:50px; font-size:30px; background-color:green; color:white"  onclick="jitsicall()" >Start Webinar</button>
+        <div id="meet" style="width:100%; text-align:center"></div>
+    </body>
+</html>

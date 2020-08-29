@@ -1,0 +1,832 @@
+2,AL DRZ,Durres (Durazzo),sea
+2,AL SAR,Sarande,sea
+2,AL SHG,Shengjjin,sea
+2,AL VOA,"Vlore (Vlora, Vlone)",sea
+3,DZ ALG,Algiers,sea
+3,DZ AAE,Annaba (Ex Bone),sea
+3,DZ AZW,Arzew,sea
+3,DZ BJA,Bejaia (Ex Bougie),sea
+3,DZ DEL,Dellys,sea
+3,DZ GHA,Ghazaouet,sea
+3,DZ MOS,Mostaganem,sea
+3,DZ ORN,Oran,sea
+3,DZ SKI,Skikda (Ex Philippeville),sea
+3,DZ TEN,Tenes,sea
+4,AS PPG,Pago Pago,sea
+6,AO CAB,Cabinda,sea
+6,AO LOB,Lobito,sea
+6,AO LAD,Luanda,sea
+6,AO MSZ,Namibe,sea
+6,AO PBN,Porto Amboim,sea
+6,AO SOQ,Soyo,sea
+10,AR BHI,Bahia Blanca,sea
+10,AR BUE,Buenos Aires,sea
+10,AR CRD,Comodoro Rivadavia,sea
+10,AR COU,"Concepcion del
+Uruguay",sea
+10,AR MDQ,Mar del Plata,sea
+10,AR NEC,Necochea,sea
+10,AR PMY,Puerto Madryn,sea
+10,AR RGL,Rio Gallegos,sea
+10,AR ROS,Rosario,sea
+10,AR SFN,Santa Fe,sea
+10,AR USH,Ushuaia,sea
+12,AW ORJ,Oranjestad,sea
+13,AU PAE,Adelaide,sea
+13,AU BNE,Brisbane,sea
+13,AU CNS,Cairns,sea
+13,AU DRW,Darwin,sea
+13,AU DPO,Devonport,sea
+13,AU FRE,Fremantle,sea
+13,AU GEX,Geelong,sea
+13,AU HBA,Hobart,sea
+13,AU MKY,Mackay,sea
+13,AU MEL,Melbourne,sea
+13,AU SYD,Sydney,sea
+13,AU TSV,Townsville,sea
+15,AZ BAK,Baku,sea
+16,BS FPO,Freeport,sea
+16,BS NAS,Nassau,sea
+17,BH MIN,Mina Salman,sea
+17,BH SIT,Sitra,sea
+18,BD CGP,Chittagong,sea
+18,BD MGL,Mongla,sea
+19,BB BGI,Bridgetown,sea
+21,BE ANR,Antwerp,sea
+21,BE BRU,Brussels (Bruxelles),sea
+21,BE GNE,Ghent,sea
+21,BE LGG,Liege,sea
+21,BE ZEE,Zeebrugge,sea
+22,BZ BZE,Belize City,sea
+23,BJ COO,Cotonou,sea
+24,BM BDA,Hamilton,sea
+24,BM SGE,St Georges,sea
+30,BR BEL,Belem,sea
+30,BR FOR,Fortaleza,sea
+30,BR IBB,Imbituba,sea
+30,BR MAO,Manaus,sea
+30,BR PNG,Paranagua,sea
+30,BR POA,Porto Alegre,sea
+30,BR REC,Recife,sea
+30,BR RIO,Rio De Janeiro,sea
+30,BR RIG,Rio Grande,sea
+30,BR SSA,Salvador,sea
+30,BR SSZ,Santos,sea
+30,BR VIX,Vitoria,sea
+32,BN KUB,Kuala Belait,sea
+32,BN MUA,Muara,sea
+33,BG VAR,Varna,sea
+36,KH KOS,"Kompongsom (also
+known as:",sea
+36,KH PNH,Phnom Penh,sea
+37,CM DLA,Douala,sea
+37,CM KBI,Kribi,sea
+37,CM TKC,Tiko,sea
+38,CM PAB,Alberni,sea
+38,CA BEC,Becancour,sea
+38,CA CHV,Churchill,sea
+38,CA NWE,"Fraser River Port (Port
+of New Westminster)",sea
+38,CA HAL,Halifax,sea
+38,CA HAM,Hamilton,sea
+38,CA HAL,Halifax,sea
+38,CA MTR,Montreal,sea
+38,CA NNO,Nanaimo,sea
+38,,,sea
+38,n/a,Saguenay,sea
+38,,,sea
+38,CA SEI,"Sept Iles (Seven
+Islands)",sea
+38,CA SJF,St Johns,sea
+38,CA SYD,Sydney,sea
+38,CA THU,Thunder Bay,sea
+38,CA TOR,Toronto,sea
+38,CA TRR,Trois-Rivieres,sea
+38,CA VAN,Vancouver,sea
+38,CA WND,Windsor,sea
+39,CV PGR,Porto Grande,sea
+40,KY GEC,"Georgetown, Grand
+Cayman",sea
+43,CL ANF,Antofagasta,sea
+43,CL ARI,Arica,sea
+43,CL CNR,Chanaral,sea
+43,CL IQQ,Iquique,sea
+43,CL PMC,Puerto Montt,sea
+43,CL PUQ,Punta Arenas,sea
+43,CL SAI,San Antonio,sea
+43,CL SVE,San Vicente,sea
+43,CL TAL,Talcahuano,sea
+43,CL VAP,Valparaiso,sea
+44,CN DLC,Dalian,sea
+44,CN FOC,Fuzhou,sea
+44,CN CAN,Guangzhou,sea
+44,CN HAK,Haikou,sea
+44,CN LYG,Lianyungang,sea
+44,CN NTG,Nantong,sea
+44,CN NGB,Ningbo,sea
+44,CN TAO,Qingdao,sea
+44,CN SHP,Qinhuangdao,sea
+44,CN SHA,Shanghai,sea
+44,CN SWA,Shantou,sea
+44,CN TSN,Tianjin,sea
+44,CN XMN,Xiamen,sea
+44,CN ZHA,Zhanjiang,sea
+47,CO BAQ,Barranquilla,sea
+47,CO BUN,Buenaventura,sea
+47,CO CTG,Cartagena,sea
+47,CO PBO,Puerto Bolivar,sea
+47,CO TCO,Tumaco,sea
+47,CO TRB,Turbo,sea
+48,KM YVA,Moroni,sea
+48,KM MUT,Mutsamudu,sea
+49,CG PNR,Pointe Noire,sea
+50,ZR BNW,Banana,sea
+50,ZR BOA,Boma,sea
+52,CR CAL,Caldera,sea
+52,CR GLF,Golfito,sea
+52,CR PAS,Puntarenas,sea
+52,CR XQP,Quepos,sea
+53,CI ABJ,Abidjan,sea
+54,HR RJK,Rijeka Bakar,sea
+54,HR ZAD,Zadar,sea
+54,HR DBV,Dubrovnik,sea
+54,HR OMI,Omisalj,sea
+54,HR PLE,Ploce,sea
+54,HR PUY,Pula,sea
+54,HR SIB,Sibenik,sea
+54,HR SPU,Split,sea
+55,CU HAV,Havana,sea
+55,CU MZO,Manzanillo,sea
+55,CU QMA,Matanzas,sea
+55,CU NVT,Nuevitas,sea
+55,CU SCU,Santiago de Cuba,sea
+56,CY AKT,Akrotiri,sea
+56,CY FMG,Famagusta,sea
+56,CY LAT,Larnaca,sea
+56,CY LMS,Limassol,sea
+56,CY PFO,Paphos,sea
+56,CY VAS,Vassiliko,sea
+58,DK AAR,Aarhus,sea
+58,DK EBJ,Esbjerg,sea
+58,DK FRC,Fredericia,sea
+58,DK FDH,Frederikshavn,sea
+58,DK GRE,Grenaa,sea
+58,DK ODE,Odense,sea
+58,DK RNN,Ronne,sea
+59,DJ JIB,Djibouti,sea
+60,DM POR,Portsmouth,sea
+60,DM RSU,Roseau,sea
+61,DO BRX,Barahona,sea
+61,DO LRM,La Romana,sea
+61,DO POP,Puerto Plata,sea
+61,DO HAI,Rio Haina,sea
+61,DO SPM,San Pedro de Macoris,sea
+61,DO SDQ,Santo Domingo,sea
+63,EC ESM,Esmeraldas,sea
+63,EC GYE,Guayaquil,sea
+63,EC LLD,La Libertad,sea
+63,EC MEC,Manta,sea
+63,EC PBO,Puerto Bolivar,sea
+63,EC SLR,San Lorenzo,sea
+64,EG EDK,Alexandria,sea
+64,EG DAM,Damietta,sea
+64,EG PSD,Port Said,sea
+64,EG,Suez (Al Suweis),sea
+65,SV AQJ,Acajutla,sea
+65,SV CUT,Cutuco,sea
+66,GQ BSG,Bata,sea
+66,n/a,"Ceiba Marine
+Terminal",sea
+66,GQ SSG,Malabo (Rey Malabo),sea
+68,EE PYA,Pärnu,sea
+68,EE TLL,Tallinn,sea
+72,FO KVI,Klaksvik,sea
+72,FO THO,Torshavn,sea
+73,FJ LBS,Labasa (Lambasa),sea
+73,FJ LTK,Lautoka,sea
+73,FJ LEV,Levuka,sea
+73,FJ SVU,Savu Savu,sea
+73,FJ SUV,Suva,sea
+74,FI HMN,Hamina,sea
+74,FI HEL,Helsinki,sea
+74,FI KOK,Kokkola,sea
+74,FI KTK,Kotka,sea
+74,FI LOV,Loviisa,sea
+74,FI OUL,Oulu,sea
+74,FI POR,Pori,sea
+74,FI RAU,Rauma,sea
+74,FI TKU,Turku,sea
+74,FI UKI,Uusikaupunki,sea
+74,FI VAA,Vaasa,sea
+75,FR BOD,Bordeaux,sea
+75,FR BOL,Boulogne Sur Mer,sea
+75,FR CER,Cherbourg,sea
+75,FR DKK,Dunkerque,sea
+75,FR LPE,La Rochelle-Pallice,sea
+75,FR LEH,Le Havre,sea
+75,FR MRS,Marseille,sea
+75,FR NTE,Nantes-St. Nazaire,sea
+75,FR PAR,Paris,sea
+75,FR URO,Rouen,sea
+75,FR SML,St Malo,sea
+75,FR SXB,Strasbourg,sea
+75,FR TLN,Toulon,sea
+76,GF CAY,Cayenne,sea
+77,PF PPT,Papeete,sea
+79,GA CLZ,Cap Lopez,sea
+79,GA LBV,Libreville,sea
+79,GA OWE,Owendo,sea
+79,GA POG,Port Gentil,sea
+80,GM BJL,Banjul,sea
+81,GE BUS,Batumi,sea
+81,GE PTI,Poti,sea
+81,GE SUI,Sukhumi,sea
+82,DE BKE,Brake,sea
+82,DE BRE,Bremen,sea
+82,DE BRV,Bremerhaven,sea
+82,DE DUI,Duisburg,sea
+82,DE DUS,Dusseldorf,sea
+82,DE EME,Emden,sea
+82,DE HAM,Hamburg,sea
+82,DE KAE,Karlsruhe,sea
+82,DE KEL,Kiel,sea
+82,DE LBC,Lubeck,sea
+82,DE MHG,Mannheim,sea
+82,DE RSK,Rostock,sea
+82,DE WVN,Wilhelmshavn,sea
+83,GH TKD,Takoradi,sea
+83,GH TEM,Tema,sea
+84,GI GIB,Gibraltar,sea
+85,GR EEU,Eleusis,sea
+85,GR HER,Iraklion (Heraklion),sea
+85,GR KVA,Kavala,sea
+85,GR GPA,Patras,sea
+85,GR PIR,Piraeus,sea
+85,GR SKG,Thessaloniki,sea
+85,GR VOL,Volos,sea
+86,GL JHS,"Holsteinsborg
+(Sisimiut)",sea
+86,GL JNN,Nanortalik,sea
+86,GL UAK,Narsarsuaq,sea
+86,GL GOH,Nuuk (Godthaab),sea
+88,GP GUS,Gustavia,sea
+88,GP PTP,Pointe-a-Pitre,sea
+89,GU APR,Apra (Agana),sea
+90,GT CHR,Champerico,sea
+90,GT PBR,Puerto Barrios,sea
+90,GT STC,"Santo Tomas De
+Castilla",sea
+92,GN CKY,Conakry,sea
+92,GN KMR,Port Kamsar,sea
+93,GW BXO,Bissau,sea
+94,GY GEO,Georgetown,sea
+94,GY QSK,New Amsterdam,sea
+95,HT PAP,Port Au Prince,sea
+97,HN LCE,La Ceiba,sea
+97,HN PCA,Puerto Castilla,sea
+97,HN PCR,Puerto Cortes,sea
+97,HN SLO,San Lorenzo,sea
+97,HN TEA,Tela,sea
+98,HK HKG,Hong Kong,sea
+100,IS AKU,Akureyri,sea
+100,IS HAF,Hafnarfjordur(Straumsvik),sea
+100,IS ISA,Isafjordur,sea
+100,IS KEV,Keflavik,sea
+100,IS REY,Reykjavik,sea
+100,IS VES,Vestmannaeyjar,sea
+102,ID CXP,"Cilacap, Java(Tanjung Intan)",sea
+102,ID CBN,"Cirebon, Java",sea
+102,ID TPP,"Jakarta, Java(Tanjung Priok)",sea
+102,ID KOE,"Kupang, Timor",sea
+102,ID PLM,"Palembang, Sumatra",sea
+102,ID SRG,"Semarang, Java(Tanjung Emas)",sea
+102,ID SUB,"Surabaya, Java(Tanjung Perak)",sea
+102,ID UPG,"Ujung Pandang,Sulawesi (Makassar)",sea
+103,IR ABD,Abadan,sea
+103,IR BND,Bandar Abbas,sea
+103,IR BAZ,Bandar Anzali,sea
+103,IR MRX,Bandar Mahshahr,sea
+103,IR BUZ,Bushehr,sea
+103,IR BKM,Imam Khomeini,sea
+103,IR KHO,Khorramshahr,sea
+103,IR LVP,Lavan,sea
+103,IR SXI,Sirri Island,sea
+104,IQ BSR,Basra,sea
+104,IQ KAZ,Khor al Zubair,sea
+104,IQ UQR,Umm Qasr,sea
+105,IE ARK,Arklow,sea
+105,IE ORK,Cork,sea
+105,IE DRO,Drogheda,sea
+105,IE DUB,Dublin,sea
+105,IE FOV,"Foynes(Shannon Foynes
+Port)",sea
+105,IE GWY,Galway,sea
+105,IE NRS,New Ross,sea
+105,IE WAT,Waterford,sea
+106,IL ASH,Ashdod,sea
+106,IL AKL,Ashkelon,sea
+106,IL ETH,Eilat,sea
+106,IL HAD,Hadera,sea
+106,IL HFA,Haifa,sea
+107,IT AUG,Augusta,sea
+107,IT BLN,Bagnoli,sea
+107,IT BRI,Bari,sea
+107,IT BDS,Brindisi,sea
+107,IT GEA,Gela,sea
+107,IT GOA,Genoa,sea
+107,IT SPE,La Spezia,sea
+107,IT LIV,Livorno,sea
+107,IT MSN,Messina,sea
+107,IT MLZ,Milazzo,sea
+107,IT NAP,Napoli (Naples),sea
+107,IT PMO,Palermo,sea
+107,IT PTO,Porto Torres,sea
+107,IT RAN,Ravenna,sea
+107,IT PFX,Sarroch (Porto Foxi),sea
+107,IT SVN,Savona-Vado,sea
+107,IT TAR,Taranto,sea
+107,IT TRS,Trieste,sea
+107,IT VCE,Venice,sea
+108,JM KIN,Kingston,sea
+108,JM MBJ,Montego Bay,sea
+108,JM OCJ,Ocho Rios,sea
+108,JM POT,Port Antonio,sea
+108,JM PEV,Port Esquivel,sea
+108,JM ROP,Rocky Point,sea
+109,JP AXT,Akita,sea
+109,JP AMA,Amagasaki,sea
+109,JP CHB,Chiba,sea
+109,JP HHE,Hachinohe,sea
+109,JP HKD,"Hakodate, Hokkaido",sea
+109,JP HHR,Higashiharima,sea
+109,JP HIM,Himeji,sea
+109,JP HIJ,Hiroshima,sea
+109,JP KWS,Kawasaki,sea
+109,JP KNU,Kinuura,sea
+109,JP UKB,Kobe,sea
+109,JP KUH,"Kushiro, Hokkaido",sea
+109,JP MIZ,Mizushima,sea
+109,JP MOJ,Moji,sea
+109,JP NGO,Nagoya,sea
+109,JP OSA,Osaka,sea
+109,JP SAK,Sakai,sea
+109,JP SKT,Sakata,sea
+109,JP SMZ,Shimizu,sea
+109,JP TYO,Tokyo,sea
+109,JP TMK,"Tomakomai,
+Hokkaido",sea
+109,JP YOK,Yokohama,sea
+111,JO AQJ,Aqaba (El Akaba),sea
+113,KE LAU,Lamu,sea
+113,KE MBA,Mombasa,sea
+114,KI TRW,Betio (Tarawa),sea
+115,KP CHO,Chongjin,sea
+115,KP HAE,Haeju,sea
+115,KP NAM,Nampo,sea
+115,KP WON,Wonsan,sea
+116,KR PUS,Busan (Pusan),sea
+116,KR CHF,Chinhae,sea
+116,KR INC,Inchon,sea
+116,KR MAS,Masan,sea
+116,KR MOK,Mokpo,sea
+116,KR KPO,Pohang,sea
+116,KR TGH,Tonghae,sea
+116,KR USN,Ulsan,sea
+116,KR YOS,Yosu (Yeosu),sea
+117,KW MEA,Mina al Ahmadi,sea
+117,KW MIS,Mina Saud,sea
+117,KW SWK,Shuwaikh,sea
+120,LV LPX,Liepaja,sea
+120,SU RIX,Riga,sea
+120,LV VNT,Ventspils,sea
+121,LB BEY,Beirut,sea
+121,LB CHK,Chekka,sea
+121,LB SEL,Selaata,sea
+121,LB SDN,Sidon,sea
+121,LB KYE,Tripoli,sea
+123,LR UCN,Buchanan,sea
+123,LR GRE,Greenville,sea
+123,LR MLW,Monrovia,sea
+124,LY BEN,Bingazi (Benghazi),sea
+124,LY DNF,Derna,sea
+124,LY LMQ,Marsa El Brega,sea
+124,LY MRA,"Misurata (Qasr
+Ahmed)",sea
+124,LY RLA,Ras Lanuf,sea
+124,LY TOB,Tobruk,sea
+124,LY TIP,Tripoli,sea
+124,LY ZUA,Zuara,sea
+126,LT KLJ,"Klaipeda(includes sixsubports:
+)",sea
+128,MOMFM,"Macau (Macao,
+Aomen)",sea
+130,MG DIE,Antsiranana(Diego Suarez),sea
+130,MG MJN,Majunga (Mahajanga),sea
+130,MG TOA,"Toamasina
+(Tamatave)",sea
+130,MG TLE,Tulear (Toliara),sea
+132,MY BTU,"Bintulu, Sarawak",sea
+132,MY BKI,"Kota Kinabalu, Sabah",sea
+132,MY KUA,Kuantan(Tanjong Gelang),sea
+132,MY KCH,"Kuching, Sarawak",sea
+132,MY KUD,"Kudat, Sabah",sea
+132,MY LBU,"Labuan, Sabah",sea
+132,MY LDU,"Lahad Datu, Sabah",sea
+132,MY LUM,Lumut,sea
+132,MY MYY,"Miri, Sarawak",sea
+132,MY PGU,"Pasir Gudang, Johor",sea
+132,MY PEN,Penang (Georgetown),sea
+132,MY PDI,Port Dickson,sea
+132,MY PKL,Port Klang (Kelang),sea
+132,MY SDK,"Sandakan, Sabah",sea
+132,MY SBW,"Sibu, Sarawak",sea
+132,MY TPP,"Tanjung Pelepas,
+Johor",sea
+132,MY TWU,"Tawau, Sabah",sea
+135,MT MLA,Valletta,sea
+138,MQ FDF,Fort de France,sea
+139,MR NDB,Nouadhibou,sea
+139,MR NKC,Nouakchott,sea
+140,MU PLU,Port Louis,sea
+142,MX ACA,Acapulco,sea
+142,MX COA,Coatzacoalcos,sea
+142,MX GYM,Guaymas,sea
+142,MX LAP,La Paz,sea
+142,MX LZC,Lazaro Cardenas,sea
+142,MX ZLO,Manzanillo,sea
+142,MX MZT,Mazatlan,sea
+142,MX PGO,Progreso,sea
+142,MX SCX,Salina Cruz,sea
+142,MX TAM,Tampico,sea
+142,MX TPB,Topolobampo,sea
+142,MX TUX,Tuxpan,sea
+142,MX VER,Veracruz,sea
+143,FM PNI,Pohnpei (Ex Ponape),sea
+145,MC MON,Monaco,sea
+147,MS PLY,Plymouth,sea
+148,MA AGA,Agadir,sea
+148,MA CAS,Casablanca,sea
+148,MA ELJ,El Jadida,sea
+148,MA NNA,Kenitra,sea
+148,MA MOH,Mohammedia,sea
+148,MA SFI,Safi,sea
+148,MA TNG,Tangier,sea
+149,MZ BEW,Beira,sea
+149,MZ INH,Inhambane,sea
+149,MZ MPM,Maputo,sea
+149,MZ MNC,Nacala,sea
+149,MZ POL,Pemba,sea
+149,MZ UEL,Quelimane,sea
+150,MM BSX,Bassein,sea
+150,MM MNU,Moulmein,sea
+150,MM RGN,Yangon,sea
+151,NA LUD,Luderitz,sea
+151,NA WVB,Walvis Bay,sea
+152,NR INU,Nauru Island,sea
+154,NL AMS,Amsterdam,sea
+154,NL DZL,Delfzijl,sea
+154,NL DOR,Dordrecht,sea
+154,NL EEM,Eemshaven,sea
+154,NL GRQ,Groningen,sea
+154,NL IJM,IJmuiden,sea
+154,NL RTM,Rotterdam,sea
+154,NL TNZ,Terneuzen,sea
+155,AN KRA,"Kralendijk, Bonaire",sea
+155,AN PHI,Philipsburg,sea
+155,AN WIL,Willemstad,sea
+156,NC NOU,Noumea,sea
+156,NC THI,Thio,sea
+157,NZ AKL,Auckland,sea
+157,NZ ORR,"Otago Harbour(Dunedin, Port
+Chalmers, Ravensbourne)",sea
+157,NZ TRG,Tauranga,sea
+157,NZ WLG,Wellington,sea
+158,NI BEF,Bluefields,sea
+158,NI CIO,Corinto,sea
+158,NI ELB,El Bluff,sea
+158,NI PUZ,Puerto Cabezas,sea
+158,NI PSN,Puerto Sandino,sea
+158,NI SJS,San Juan Del Sur,sea
+160,NG CBQ,Calabar,sea
+160,NG LOS,Lagos,sea
+160,NG ONN,Onne,sea
+160,NG PHC,Port Harcourt,sea
+160,NG SPL,Sapele,sea
+160,NG TIN,Tin Can Island,sea
+160,NG WAR,Warri,sea
+163,MP SPN,Saipan,sea
+164,NO BGO,Bergen,sea
+164,NO DRM,Drammen,sea
+164,n/a,"Grenland Harbour
+(Rafnes, Heroya,",sea
+164,NO HFT,Hammerfest,sea
+164,NO HRD,Harstad,sea
+164,NO HAU,Haugesund,sea
+164,NO KRS,Kristiansand,sea
+164,NO LAR,Larvik,sea
+164,NO OSL,Oslo,sea
+164,NO SVG,Stavanger,sea
+164,NO TRD,Trondheim,sea
+166,PK KHI,Karachi,sea
+166,PK BQM,"Muhammad Bin
+Qasim",sea
+169,PA ONX,Colon,sea
+169,PA CTB,Cristobal,sea
+169,PA VAC,Vacamonte,sea
+170,PG KIE,Kieta,sea
+170,PG LAE,Lae,sea
+170,PG MAG,Madang,sea
+170,PG POM,Port Moresby,sea
+170,PG RAB,Rabaul,sea
+172,PE CLL,Callao,sea
+172,PE CHM,Chimbote,sea
+172,PE ILO,Ilo,sea
+172,PE MRI,Matarani,sea
+172,PE PAI,Paita,sea
+172,PE SVY,Salaverry,sea
+172,PE TYL,Talara,sea
+173,PH BTG,Batangas,sea
+173,PH CGY,"Cagayan de Oro,Mindanao",sea
+173,PH CEB,Cebu,sea
+173,PH DVO,"Davao, Mindanao",sea
+173,PH IGN,"Iligan, Mindanao",sea
+173,PH ILO,Iloilo,sea
+173,PH JOL,Jolo,sea
+173,PH LGP,"Legaspi, Davao",sea
+173,PH MNL,Manila,sea
+173,PH PPS,"Puerto Princesa,Palawan",sea
+173,PH SFE,"San Fernando, Luzon",sea
+173,PH SFS,Subic Bay,sea
+173,PH ZAM,"Zamboanga,
+Mindanao",sea
+175,PL GDN,Gdansk,sea
+175,PL GDY,Gdynia,sea
+175,PL KOL,Kolobrzeg,sea
+175,PL SWI,Swinoujscie,sea
+175,PL SZZ,Szczecin,sea
+175,PL UST,Ustka,sea
+176,PT AVE,Aveiro,sea
+176,PT LEI,Leixoes,sea
+176,PT LIS,Lisbon,sea
+176,PT PRM,Portimao,sea
+176,PT SET,Setubal,sea
+176,PT VDC,Viana Do Castelo,sea
+177,PR GUX,Guanica Harbour,sea
+177,PR GUY,Guayanilla,sea
+177,PR LAM,Las Mareas,sea
+177,PR PSE,Ponce,sea
+177,PR SJU,San Juan,sea
+178,QA DOH,Doha,sea
+178,QA HAL,Halul Island,sea
+178,QA RLF,Ras Laffan,sea
+178,QA UMS,Umm Said (Mesaieed),sea
+179,RE PDG,Port Reunion(Pointe des Galets),sea
+180,RO BRA,Braila,sea
+180,RO CND,Constantza,sea
+180,RO MAG,Mangalia,sea
+180,RO SUL,Sulina,sea
+181,SU KGD,Kaliningrad,sea
+181,RU KHO,Kholmsk,sea
+181,RU MMK,Murmansk,sea
+181,RU NJK,Nakhodka,sea
+181,RU NVS,Novorossiysk,sea
+181,RU LED,St Petersburg,sea
+181,RU TUA,Tuapse,sea
+181,RU VVO,Vladivostok,sea
+181,RU VYG,Vyborg,sea
+184,KN BAS,Basseterre,sea
+185,LC SLU,Castries (St Lucia),sea
+185,LC VIF,Vieux Fort,sea
+187,VC KTN,Kingstown,sea
+188,WS APW,Apia,sea
+190,ST SAA,Santo Antonio,sea
+190,ST TMS,Sao Tome,sea
+191,SA DMN,Dammam,sea
+191,SA DHU,Dhuba,sea
+191,SA GIZ,Gizan,sea
+191,SA JED,Jeddah,sea
+191,SA JUB,Jubail,sea
+191,SA RAB,Rabigh,sea
+191,SA RAM,Ras al Mishab,sea
+191,SA RTA,Ras Tanura,sea
+191,SA YNB,Yanbu,sea
+192,SN DKR,Dakar,sea
+194,SC POV,Port Victoria,sea
+195,SL FNA,Freetown,sea
+195,SL PEP,Pepel,sea
+196,SG SIN,Singapore,sea
+198,SI IZO,Izola,sea
+198,SI KOP,Koper,sea
+198,SI PIR,Piran,sea
+200,SB HIR,Honiara,sea
+200,SB NOR,"Noro, New Georgia",sea
+200,SB VIU,Viru Harbour,sea
+200,SB XYA,"Yandina, Pavuvu
+Island",sea
+201,SO BBO,Berbera,sea
+201,SO KMU,Kismayu,sea
+201,SO MER,Merca,sea
+201,SO MGQ,Mogadishu,sea
+202,ZA CPT,Cape Town,sea
+202,ZA DUR,Durban,sea
+202,ZA MZY,Mossel Bay,sea
+202,ZA PLZ,Port Elizabeth,sea
+202,ZA RCB,Richards Bay,sea
+202,ZA SDB,Saldanha Bay,sea
+205,ES AVS,Aviles,sea
+205,ES BCN,Barcelona,sea
+205,ES BIO,Bilbao,sea
+205,ES CAD,Cadiz,sea
+205,ES CAR,Cartagena,sea
+205,ES CAS,Castellon,sea
+205,ES CEU,Ceuta,sea
+205,ES HUV,Huelva,sea
+205,ES AGP,Malaga,sea
+205,ES PAS,Pasajes,sea
+205,ES SDR,Santander,sea
+205,ES TAR,Tarragona,sea
+205,ES VLC,Valencia,sea
+205,ES VGO,Vigo,sea
+206,LK CMB,Colombo,sea
+206,LK JAF,Jaffna,sea
+206,LK TRR,Trincomalee,sea
+207,SD PZU,Port Sudan,sea
+208,SR MOJ,Moengo,sea
+208,SR ICK,Nieuw Nickerie,sea
+208,SR PBM,Paramaribo,sea
+208,SR PRM,Paranam,sea
+208,SR AGI,Wageningen,sea
+211,SE GVX,Gavle,sea
+211,SE GOT,"Gothenburg
+(Goteborg)",sea
+211,SE HAD,Halmstad,sea
+211,SE KLR,Kalmar,sea
+211,SE KAN,Karlshamn,sea
+211,SE MMA,Malmo,sea
+211,SE SOL,Solvesborg,sea
+211,SE STO,Stockholm,sea
+211,SE SDL,Sundsvall,sea
+212,CH BSL,Basel,sea
+213,SY BAN,Baniyas,sea
+214,TW HUN,Hualien,sea
+214,TW KHH,Kaohsiung,sea
+214,TW KHH,Kaohsiung,sea
+214,TW KEL,Keelung (Chilung),sea
+214,TW SUO,Suao,sea
+214,TW TXG,Taichung,sea
+216,TZ DAR,Dar Es Salaam,sea
+216,TZ KIM,Kilwa Masoko,sea
+216,TZ LDI,Lindi,sea
+216,TZ MYW,Mtwara,sea
+216,TZ PAN,Pangani,sea
+216,TZ TGT,Tanga,sea
+217,TH BKK,Bangkok,sea
+217,TH LCH,Laem Chabang,sea
+217,TH PAN,Pattani,sea
+217,TH HKT,Phuket,sea
+217,TH SAT,Sattahip,sea
+217,TH SGZ,Songkhla,sea
+217,TH SRI,Sriracha,sea
+218,TG KPE,Kpeme,sea
+218,TG LFW,Lome,sea
+220,TO NEI,Neiafu,sea
+220,TO TBU,Nukualofa,sea
+220,TO PAN,Pangai,sea
+221,TT PTF,Point Fortin,sea
+221,TT PTS,Point Lisas,sea
+221,TT PTP,Pointe a Pierre,sea
+221,TT SCA,Scarborough,sea
+221,TT POS,Spain,sea
+221,TT TEM,Tembladora,sea
+222,TN BIZ,Bizerte,sea
+222,TN GAE,Gabes,sea
+222,TN LGN,La Goulette,sea
+222,TN SFA,Sfax,sea
+222,TN SUS,Sousse,sea
+222,TN TUN,Tunis,sea
+223,TR DRC,Derince,sea
+223,TR DIK,Dikili,sea
+223,TR GEM,Gemlik,sea
+223,TR HOP,"Hopa, Artvin",sea
+223,TR ISK,"Iskenderun, Hatay",sea
+223,TR IST,Istanbul,sea
+223,TR TZX,Trabzon,sea
+225,TC GDT,Grand Turk Island,sea
+225,TC PLS,Providenciales,sea
+226,TV FUN,Funafuti,sea
+230,GB ABD,Aberdeen,sea
+230,GB BEL,Belfast,sea
+230,GB BRS,Bristol,sea
+230,GB DVR,Dover,sea
+230,GB FAL,Falmouth,sea
+230,GB FXT,Felixstowe,sea
+230,GB GLW,Glasgow,sea
+230,GB GRG,Grangemouth,sea
+230,GB HUL,Hull,sea
+230,GB LEI,Leith,sea
+230,GB LIV,Liverpool,sea
+230,GB LON,London,sea
+230,GB MNC,Manchester,sea
+230,GB PHD,Peterhead Bay,sea
+230,GB PLY,Plymouth,sea
+230,GB PME,Portsmouth,sea
+230,GB SFW,Scapa Flow,sea
+230,GB SOU,Southampton,sea
+230,GB SUL,Sullom Voe,sea
+230,GB TEE,Teesport,sea
+230,GB RCS,Thamesport,sea
+230,GB TYN,Tyne,sea
+228,UA ERD,Berdyansk,sea
+228,UA KHE,Kherson,sea
+228,UA ODS,Odessa,sea
+228,UA RNI,Reni,sea
+228,UA SVP,Sevastopol,sea
+229,AE AJM,Ajman,sea
+229,AE DAS,Das Island,sea
+229,AE DXB,Dubai (Port Rashid),sea
+229,AE FJR,Fujairah,sea
+229,AE JEA,Jebel Dhanna/Ruwais,sea
+229,AE KLF,Khor Fakkan,sea
+229,AE MSA,Mina Saqr,sea
+229,AE MZD,Mina Zayed,sea
+231,US AOT,Anacortes,sea
+231,US ASF,Ashtabula,sea
+231,US BAL,Baltimore,sea
+231,US BTR,Baton Rouge,sea
+231,US BPT,Beaumont,sea
+231,US BOS,Boston,sea
+231,US CHS,Charleston,sea
+231,US CHI,Chicago,sea
+231,US CLE,Cleveland,sea
+231,US CRP,Corpus Christi,sea
+231,US DET,Detroit,sea
+231,US DLH,Duluth-Superior,sea
+231,US FRP,Freeport,sea
+231,US HNV,"Hampton Roads
+(Norfolk, Chesapeake,",sea
+231,US HNL,Honolulu,sea
+231,US HOU,Houston,sea
+231,US HTS,"Huntington - Tri-State
+(WV)",sea
+231,US JAX,Jacksonville,sea
+231,US LCH,Lake Charles,sea
+231,US LGB,Long Beach,sea
+231,US LAX,Los Angeles,sea
+231,US MEE,Manatee,sea
+231,US MEM,Memphis,sea
+231,US MIA,Miami,sea
+231,US MOB,Mobile,sea
+231,US,New Orleans,sea
+231,US NYC,New York/New Jersey,sea
+231,US OAK,Oakland,sea
+231,US PGL,Pascagoula,sea
+231,US PHL,Philadelphia,sea
+231,US PIT,Pittsburgh,sea
+231,US PLQ,"Plaquemines
+(Louisiana)",sea
+231,US POA,Port Arthur,sea
+231,US PEF,Port Everglades,sea
+231,US PWM,Portland (Maine),sea
+231,US PDX,Portland (Oregon),sea
+231,US RCH,Richmond (CA),sea
+231,US RIC,Richmond (VA),sea
+231,US SAV,Savannah,sea
+231,US SEA,Seattle,sea
+231,US LUA,South Louisiana,sea
+231,US ACI,Tacoma,sea
+231,US TPA,Tampa,sea
+231,US TXT,Texas City,sea
+231,US VDZ,Valdez,sea
+231,US ILM,Wilmington (DE),sea
+231,US ILG,Wilmington (NC),sea
+231,US YAK,Yakutat,sea
+233,UY FZB,Fray Bentos,sea
+233,UY MVD,Montevideo,sea
+233,UY NVP,Nueva Palmira,sea
+233,UY PDU,Paysandu,sea
+235,VU VLI,Port Vila,sea
+235,VU SAN,Santo,sea
+237,VE BJV,Bajo Grande Refinery,sea
+237,VE CUM,"Cumana (Puerto
+Sucre)",sea
+237,VE LAG,La Guaira,sea
+237,VE LSV,La Salina,sea
+237,VE MAR,Maracaibo,sea
+237,VE MTV,Matanzas,sea
+237,VE PLA,Palua,sea
+237,VE PBL,Puerto Cabello,sea
+237,VE PCZ,Puerto La Cruz,sea
+237,VE PCN,Punta Cardon,sea
+238,VN DAD,Danang,sea
+238,VN HPH,Haiphong,sea
+238,VN SGN,Ho Chi Minh City,sea
+238,VN HON,Hon Gay,sea
+238,VN NHA,Nha Trang,sea
+240,VI STT,"Charlotte Amalie,St. Thomas",sea
+240,VI CTD,"Christiansted, St.
+Croix",sea
+240,VI LIB,Limetree Bay,sea
+243,YE ADE,Aden,sea
+243,YE HOD,Hodeidah,sea
+243,YE MOK,Mokha,sea
+243,YE MKX,Mukalla,sea
